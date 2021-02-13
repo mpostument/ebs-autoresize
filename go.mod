@@ -7,7 +7,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.1.0
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.0.1
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.1.0
-	github.com/aws/smithy-go v1.0.0
+	github.com/aws/smithy-go v1.1.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mvisonneau/go-ebsnvme v0.0.0-20201026165225-e63797fabc2f
 	github.com/shirou/gopsutil/v3 v3.21.1
