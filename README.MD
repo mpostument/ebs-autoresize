@@ -9,6 +9,7 @@ Automatically resize your ebs.
   - [Installing](#installing)
   - [Getting Started](#getting-started)
     - [Resize](#resize)
+    - [Best practices](#best-practices)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -22,6 +23,10 @@ Download the latest binary from [releases](https://github.com/mpostument/ebs-aut
 
 `ebs-autoresize --threshold=70 --increase=40`  
 When amount of free space will be less then 70% disk will be resized on 40%
+
+### Best practices
+
+Cron every 6 hours because AWS EBS modifications are limited to every 6 hours.
 
 ## Contributing
 
