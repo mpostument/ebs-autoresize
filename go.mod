@@ -6,7 +6,7 @@ require (
 	github.com/aws/aws-sdk-go-v2 v1.2.1
 	github.com/aws/aws-sdk-go-v2/config v1.1.1
 	github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.0.3
-	github.com/aws/aws-sdk-go-v2/service/ec2 v1.1.1
+	github.com/aws/aws-sdk-go-v2/service/ec2 v1.1.2
 	github.com/aws/smithy-go v1.2.0
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mvisonneau/go-ebsnvme v0.0.0-20201026165225-e63797fabc2f
