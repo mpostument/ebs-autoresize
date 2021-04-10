@@ -30,8 +30,9 @@ github.com/aws/aws-sdk-go-v2/config v1.1.4 h1:2hjdDldmJJjb+rFieQySfOFt4WwxKZJVTE
 github.com/aws/aws-sdk-go-v2/config v1.1.4/go.mod h1:op05ummoVoAqctpA80jVt/+hvEtLfuKmDyx0bIuvfbE=
 github.com/aws/aws-sdk-go-v2/credentials v1.1.4 h1:whYYw2srG+zUQzUw4LhML83f+xd22Vm7gv0I7aJglc8=
 github.com/aws/aws-sdk-go-v2/credentials v1.1.4/go.mod h1:UQwsT2w2XelrWoVV2v/zL2uce1RxmVCiHaZsoKLamZg=
-github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.0.5 h1:5gCrezE41xYQHWDsDkJD9nT22tUH3s+Zrvs4c3v2FGc=
 github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.0.5/go.mod h1:z/NKNlYxMzphl7TzjV+ctUebHF4CFNGGlSvmV/NKcJU=
+github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.0.6 h1:zoOz5V56jO/rGixsCDnrQtAzYRYM2hGA/43U6jVMFbo=
+github.com/aws/aws-sdk-go-v2/feature/ec2/imds v1.0.6/go.mod h1:0+fWMitrmIpENiY8/1DyhdYPUCAPvd9UNz9mtCsEoLQ=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.2.0 h1:9NdeHYuvWL/Phh2HsQmv8U6zAtXyfOSt+uLBPE0VUd4=
 github.com/aws/aws-sdk-go-v2/service/ec2 v1.2.0/go.mod h1:ZINomqzd+JbTXCcUphZLGVRyPw8kidb32cONJr5+zI0=
 github.com/aws/aws-sdk-go-v2/service/internal/presigned-url v1.0.4/go.mod h1:DGOKKGeqXdIWX3xD5DKr4otrgNw5cstwUCJYwSKxbp0=
