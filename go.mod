@@ -10,7 +10,7 @@ require (
 	github.com/aws/smithy-go v1.3.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/mvisonneau/go-ebsnvme v0.0.0-20201026165225-e63797fabc2f
-	github.com/shirou/gopsutil/v3 v3.21.3
+	github.com/shirou/gopsutil/v3 v3.22.12
 	github.com/spf13/cobra v1.1.3
 	github.com/spf13/viper v1.7.1
 	golang.org/x/text v0.3.3 // indirect
